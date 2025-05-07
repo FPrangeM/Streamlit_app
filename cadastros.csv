@@ -1,17 +1,13 @@
-nome,matricula,gestor
-1,2,3
-Fernando ,11,AAAa
-Mari,123,Jorge
-a,1,2
-AAA,ABC1234,AAA
-Fernando ,ACB1234,Diego
-Fernando ,ACB1234,Mari
-Fernando,ACB1234,Mari
-Fernando,ACB1234,Mari
-Fernando,ACB1234,Mari
-Fernando,ACB1234,Mari
-teste,ABC1234,Jorge
-teste,ABC1234,Jorge
-teste,ABC1234,Jorge
-teste,ABC1234,Jorge
-teste,ABC1234,Jorge
+nome,matricula,gestor,data_cadastro
+João Silva,ABC1234,Ana Souza,2023-11-15 09:30:45
+Maria Oliveira,DEF5678,Carlos Mendes,2023-11-16 14:20:15
+Pedro Santos,GHI9012,Ana Souza,2023-11-17 10:45:30
+Ana Paula Costa,JKL3456,Carlos Mendes,2023-11-18 16:10:20
+Lucas Pereira,MNO7890,Beatriz Lima,2023-11-19 11:25:40
+Juliana Almeida,PQR1234,Beatriz Lima,2023-11-20 08:15:10
+Marcos Ribeiro,STU5678,Fernando Gomes,2023-11-21 13:40:55
+Carla Martins,VWX9012,Fernando Gomes,2023-11-22 15:30:25
+Roberto Ferreira,YZA3456,Ana Souza,2023-11-23 10:05:35
+Patricia Lima,BCD7890,Carlos Mendes,2023-11-24 09:50:15
+Fernando,ABC1234,Mariana,2025-05-07 15:59:55
+Fernando,ACB1234,Diego,2025-05-07 16:05:52
