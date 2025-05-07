@@ -100,11 +100,11 @@ def pagina_formulario():
         # Validações
         campos_validos = True
         if nome and not validar_nome(nome):
-            st.error("❌ Nome inválido: use apenas letras e espaços")
+            st.error("Nome inválido: use apenas letras e espaços")
             campos_validos = False
         
         if matricula and not validar_matricula(matricula):
-            st.error("❌ Matrícula inválida: formato deve ser 3 letras MAIÚSCULAS + 4 números (ex: ABC1234)")
+            st.error("Matrícula inválida: formato deve ser 3 letras MAIÚSCULAS + 4 números (ex: ABC1234)")
             campos_validos = False
         
         # Botão de envio
