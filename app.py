@@ -241,7 +241,7 @@ def main():
     st.sidebar.markdown("---")
     st.sidebar.markdown("""
         <div class="footer">
-            © 2023 Sua Empresa | v1.0.0
+            © 2023 Sua Empresa | v1.0.2
         </div>
     """, unsafe_allow_html=True)
 
